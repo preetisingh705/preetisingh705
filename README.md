@@ -13,10 +13,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource**
 
-- 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
-- 📝 I regularly write articles on [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
 - 💬 Ask me about **Html , Css , JavaScript**
 
 - 📫 How to reach me **preetisingh790584@gmail.com**
