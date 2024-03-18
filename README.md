@@ -20,6 +20,11 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ccymXoKRQkK2G8cT2UGxo-oUS5FL0SOg/view?usp=drive_link](https://drive.google.com/file/d/1ccymXoKRQkK2G8cT2UGxo-oUS5FL0SOg/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Happier**
+- 
+- ### 📈 GitHub Activity Graph:
+
+[![Preeti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preetisingh705&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/preetisingh705/github-readme-activity-graph)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
