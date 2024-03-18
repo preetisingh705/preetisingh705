@@ -54,8 +54,8 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=preetisingh705&show_icons=true&locale=en" alt="preetisingh705" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=preetisingh705&" alt="preetisingh705" /></p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=preetisingh705&show_icons=true&locale=en" alt="preetisingh705" />
+<img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=preetisingh705&" alt="preetisingh705" /></p>
 
 
 ### 🏆 GitHub Profile Trophy:
