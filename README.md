@@ -30,7 +30,7 @@
 ### 📈 Coding Profile:
 <p align="center">
   <a target="_blank" href="https://leetcode.com/Preeti_Singh79/" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/khushbu_In?theme=nord&font=Poppins%20Infant&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/Preeti_Singh79?theme=nord&font=Poppins%20Infant&ext=heatmap">
   </a>
 </p>
   
