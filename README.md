@@ -1,5 +1,9 @@
 ![logo](https://github.com/preetisingh705/preetisingh705/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
-<h1 align="center">  Hi there 👋, I'm Preeti Singh </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii,+There!+👋;I'm+Preeti+Singh....&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
